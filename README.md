@@ -1,1 +1,3 @@
 # OnlyPose
+
+Our project solution, OnlyPose, will focus on one type of workout, the dumbbell curl. Taking inspiration from IPPT ELISS machines that are used by the SAF for fitness testing, it will monitor the user’s form during the workout and provide instantaneous feedback to the user. For example, during a push up, it might detect that the back is not straight and thus plays an audio message “Back not straightened” and the rep will not be counted. This will help the user to correct the form for the next repetition (rep), which will reduce the risk of injury, eliminate the cost of finding a personal trainer and promote self-awareness of proper form. 
